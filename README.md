@@ -20,3 +20,5 @@ espero que aprecieis esto ya que hacer un mbr con una imagen animada es dificili
 - se han añadido librerias para 32 y 64 bits (aunque todavia solo es compatible con windows 10-11 de 64 bits)
 
 - se han solucionado varios bugs
+
+- se a traducido al ingles
