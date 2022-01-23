@@ -8,8 +8,7 @@ hay algunos payloads basados en codigo de terceros, aunque eso no hace que el vi
 espero que aprecieis esto ya que hacer un mbr con una imagen animada es dificilisimo.
 
 # importante
-el virus en vmware me a funcionado perfectamente, pero virtualbox me da errores al modificar el mbr.
-si te da error en virtualbox dimelo y mandame una imagen del error, gracias.
+aparentemente el bug con virtualbox a sido solucionado.
 
 # actualizacion 2.0:
 
